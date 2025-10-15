@@ -102,7 +102,8 @@ year = {2025},
 volume = {21},
 number = {10},
 doi = {10.1145/3763240},
-journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+journal={ACM Transactions on Multimedia Computing, Communications and Applications}
+}
 ```
 
 ---
