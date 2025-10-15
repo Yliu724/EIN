@@ -74,6 +74,7 @@ The content of the excel files (`train.xls` and `valid.xls`) should be formatted
 | img1.hdr | img1.png |
 | img2.hdr | img2.png |
 | ...      | ...      |
+
 Make sure to replace `img1.png`, `img1.hdr`, etc., with your actual image filenames.
 
 ---
