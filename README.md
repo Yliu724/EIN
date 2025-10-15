@@ -81,7 +81,10 @@ Make sure to replace `img1.png`, `img1.hdr`, etc., with your actual image filena
 
 ## 4. Testing
 
-After training, run the following command to test the model:
+You can either download the pre-trained model from [Google Drive](https://drive.google.com/file/d/1NMKKqXpZRn0LcrnrWwvvtbw9maAlb9WF/view?usp=sharing) and place it in the root folder,  
+or use your own trained model.  
+
+To test the model, run the following command (replace the checkpoint path in the main file if using your own model):
 
 ```bash
 python test.py --train False --test_SDR_path ./test_SDR --out_HDR_path ./test_results
